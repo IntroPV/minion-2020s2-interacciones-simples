@@ -26,3 +26,4 @@
 Bonus:
  - Al perder una partida, no se resetea el juego instantáneamente, sino que se espera unos segundos con una pantalla de game over, y se le da la opción de volver a intentarlo con un botón.
  - Cada vez que se reinicia el juego, los agujeros aparecen en diferentes lugares.
+ - Aparecen nuevos rombos cada X tiempo.
