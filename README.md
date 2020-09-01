@@ -12,3 +12,4 @@
  - Primer acercamiento al engine Godot.
  - Desarrollar un juego sencillo con una lógica predeterminada.
  
+![Screenshot de ejemplo](juego.jpg "Ejemplo de gameplay")
